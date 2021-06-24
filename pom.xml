@@ -38,7 +38,7 @@
       <repository>
         <id>maven-releases</id>
         <name>Relases</name>
-	<url>http://34.77.252.64:8081/repository/maven-releases/</url>
+	<url>http://35.228.116.96:8081/repository/maven-releases/</url>
       </repository>
     </distributionManagement>
 </project>
